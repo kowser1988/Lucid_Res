@@ -1,0 +1,340 @@
+
+
+
+
+
+@media(max-width:575px) and (min-width:343px){
+    .iphone_img{
+        display: none;
+    }
+    .features_div{
+        width: 60%;
+        margin: auto;
+    }
+    .cart_control{
+        width: 70%;
+    }
+    .contact_icon{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .banner_content h1{
+        font-size: 32px;
+    }
+    .client_img{
+        margin-right: 20px;
+    }
+    .testimonials_client{
+        width: 32%;
+        margin: auto;
+    }
+    .navbar-brand{
+        width: 20%;
+    }
+    .btn_download{
+        padding: 10px 12px;
+        font-size: 12px;
+    }
+    .btn_features{
+        padding: 10px 12px;
+        font-size: 12px;
+    }
+    .btn_features1{
+        padding: 10px 12px;
+        font-size: 12px;
+        margin-right: 20px;
+    }
+
+    .btn_download1{
+        padding: 10px 12px;
+        font-size: 12px;
+    }
+    .button_control{
+        width: 50%;
+        margin: auto;
+        margin-top: 30px;
+    }
+
+    .banner_content{
+        text-align: center;
+    }
+    .features_section h4{
+        font-size: 14px;
+    }
+    .features_section h1{
+        font-size: 24px;
+    }
+    .icon_list{
+        width: 65px;
+        height: 65px;
+    }
+    .hg{
+        justify-content: center;
+
+    }
+    .device_content h4{
+        font-size: 14px;
+    }
+    .device_content h1{
+        font-size: 24px;
+    }
+    .device_contentIcon1 p{
+        font-size: 16px;
+        margin-top: 30px;
+    }
+    .features_div p{
+        font-size: 14px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+
+        display: inline-block;
+
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .t_animation{
+        width: 40%;
+        margin: auto;
+    }
+    .price.price_control{
+        margin-bottom: 30px;
+    }
+    .contact_icon1{
+        width: 50%;
+        margin: auto;
+        margin-top: 40px;
+    }
+    .Contact_form{
+        width: 70%;
+    }
+    .icon_control ul{
+        width: 45%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+@media(max-width:342px) and (min-width:320px){
+    .iphone_img{
+        display: none;
+    }
+    .banner_content h1{
+        font-size: 20px;
+    }
+    .btn_download{
+        font-size: 10px;
+        padding: 10px 10px;
+    }
+    .btn_features{
+        font-size: 10px;
+        padding: 10px 10px;
+       
+    }
+    .banner_content{
+        margin-bottom: 40px;
+        text-align: center;
+        width: 100%;
+    }
+    .client_img{
+        margin-right: 20px;
+    }
+    .btn_features1{
+        margin-bottom: 10px;
+    }
+    .t_animation{
+        text-align: center;
+        width: 100%;
+        margin: auto;
+
+}
+.price.price_control{
+    margin-bottom: 30px;
+}
+.icon_list{
+    width: 50px;
+    height: 50px;
+}
+.icon_list i{
+    font-size: 22px;
+}
+.Contact_form{
+    width: 80%;
+}
+.Contact_form form input[type="submit"]{
+    font-size: 12px;
+    padding: 5px 10px;
+}
+.icon_control ul{
+    width: 70%;
+}
+.contact_icon{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.contact_icon1{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.features_div{
+    width: 100%;
+   
+}
+
+}
+@media(max-width:319px) and (min-width:0px){
+    .iphone_img{
+        display: none;
+    }
+    .btn_download{
+        font-size: 10px;
+        padding: 10px 10px;
+    }
+    .btn_features{
+        font-size: 10px;
+        padding: 10px 10px;
+    }
+    .banner_content{
+        margin-bottom: 40px;
+    }
+}
+
+
+@media(max-width:767px) and (min-width:576px){
+    .iphone_img{
+        display: none;
+    }
+    .btn_download{
+        font-size: 12px;
+        padding: 8px 22px;
+
+
+    }
+    .btn_features{
+        font-size: 12px;
+        padding: 8px 22px;
+    }
+    .banner_content{
+        margin-bottom: 50px;
+        text-align: center;
+        width: 100%;
+    }
+    .banner_content h1{
+        font-size: 30px;
+    }
+    .banner_content p{
+        font-size: 15px;
+    padding: 20px 0px;
+    }
+    .t_animation{
+        width: 100%;
+        text-align: center;
+    }
+    .price.price_control{
+        margin-bottom: 30px;
+    }
+    .contact_icon1{
+        width: 100%;
+    margin-top: 30px;
+    }
+    .icon_control ul{
+        width: 54%;
+    }
+    .btn_features1{
+    margin-right: 30px;
+
+    }
+
+}
+
+@media(max-width:991px) and (min-width:768px){
+    .banner_content h1{
+        font-size: 35px;
+    }
+    .btn_download{
+        padding: 6px 15px; 
+        font-size: 13px;
+    }
+    .btn_features{
+        padding: 6px 15px;
+        font-size: 13px;
+    }
+    .client_img{
+        margin-right: 15px;
+    }
+    .btn_features1{ 
+    padding: 10px 32px;
+    font-size: 17px;
+    margin-bottom: 10px;
+    }
+    .t_animation{
+        text-align: center;
+    }
+    .price{
+        text-align: center;
+        margin-bottom: 20px;
+    
+    }
+    .icon_control ul{
+        width: 40%;
+    }
+
+}
+@media(max-width:1199px) and (min-width:992px){
+    .iphone_img{
+        width: 32%;
+    }
+    .btn_features1{
+        padding: 10px 34px;
+        margin-bottom: 10px;
+    }
+    .t_animation{
+        width: 100%;
+        text-align: center;
+    }
+    .price{
+       
+        margin-bottom: 20px;
+    
+    }
+}
+
+@media(max-width:1399px) and (min-width:1200px){
+    .t_animation{
+        width: 100%;
+        text-align: center;
+    }
+
+
+
+}
+ 
+@media(max-width:2560px) and (min-width:1400px){
+    .t_animation{
+        width: 100%;
+        text-align: center;
+    }
+}
+
+
+@media(max-width:531px) and (min-width:343px){
+    .btn_features1 {
+        padding: 10px 16px;
+      
+        margin-bottom: 10px;
+        margin-right: 0;
+    
+    }
+
+}
+
+
+
+
